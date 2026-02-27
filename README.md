@@ -1,8 +1,8 @@
 # d2r-potato-settings
 
-If you are running D2R on a potato copy this Settings.json into folder:
+If you are running D2R on a potato copy this Settings.json into folder (steamuser is proton, it may be some other username):
 
-$HOME/battlenet/2560140673/pfx/drive_c/users/steamuser/Saved Games/Diablo II Resurrected/
+drive_c/users/steamuser/Saved Games/Diablo II Resurrected/
 
 
 
